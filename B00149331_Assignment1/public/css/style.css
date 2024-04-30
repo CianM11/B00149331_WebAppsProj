@@ -1,0 +1,64 @@
+img {
+    width: 150px;
+}
+
+.card {
+    margin-top: 5px;
+    margin: auto;
+    box-shadow: 0 4px 8px;
+    max-width: 300px;
+    background-color: skyblue;
+}
+
+.ud, ul {
+    list-style-type: none;
+    text-align: center;
+    padding-bottom: 25%;
+    list-style: none;
+}
+
+.navbar, ul {
+    padding-top: 2px;
+}
+
+.header {
+    text-align: justify;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.nav, ul {
+    list-style-type: none;
+    text-align: center;
+    padding-top: 10%;
+    list-style: none;
+}
+
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+td, th {
+    padding: 5px;
+    border-bottom: 1px solid #aaa;
+}
